@@ -1,0 +1,22 @@
+{
+  "name": "tagStation",
+  "description": "Projeto para criar metadados de fotos usando o watson",
+  "main": "",
+  "authors": [
+    "grupoestudosustain <sara-silveira2009@hotmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/gruposustain/appWatsonTagStation",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.3",
+    "bootstrap": "^3.3.7"
+  }
+}
